@@ -1,0 +1,3 @@
+@echo off
+echo Running application...
+java -Dfile.encoding=UTF-8 -cp "bin;libs/*" com.example.fabricdefectdetection.Main
